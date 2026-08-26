@@ -1,0 +1,19 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background: #e93535;
+}
+h2{
+    background: #faf9f9;
+}
+#one{
+    background: #f7f7f7;
+}
+.two{
+    background-color: chocolate;
+}
+div,span,p{ 
+    background: #13025f;
+}
